@@ -172,3 +172,4 @@ cython_debug/
 ragEnv
 embeddata_full.pickle
 hf_cache
+*.jpeg
